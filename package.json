@@ -1,0 +1,24 @@
+{
+  "name": "aifindsyou-redirect",
+  "version": "1.0.0",
+  "description": "A simple redirect website to RankWit AI",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server . -p 8000",
+    "build": "echo 'No build step needed'",
+    "deploy": "echo 'Deploy via GitHub Pages'"
+  },
+  "keywords": [
+    "redirect",
+    "ai",
+    "rankwit",
+    "github-pages"
+  ],
+  "author": "AI Finds You",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/aifindsyou.git"
+  },
+  "homepage": "https://aifindsyou.com/"
+} 
